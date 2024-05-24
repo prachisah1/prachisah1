@@ -6,13 +6,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachisah1" alt="prachisah1" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, NodeJS and python**
+- 🌱 I’m currently learning **JavaScript,AI ,ML and python**
 
 - 💬 Ask me about **HTML,CSS,C++**
 
 - 📫 How to reach me **prachisah66614@gmailcom**
 
-- ⚡ Fun fact **I think I love Myself.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
